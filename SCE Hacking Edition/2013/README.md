@@ -5,7 +5,8 @@
 1. **Accessible**
 
     File: epreuves/tag.png  
-    [link](https://raw.githubusercontent.com/initbrain/steganography/master/SCE%20Hacking%20Edition/2013/epreuves/tag.jpg)
+    [link](https://raw.githubusercontent.com/free-knowledge/steganography/master/SCE%20Hacking%20Edition/2013/epreuves/tag.jpg)  
+    ![tag.jpg](https://raw.githubusercontent.com/free-knowledge/steganography/master/SCE%20Hacking%20Edition/2013/epreuves/tag.jpg)
 
 2. **Weakness**
 
